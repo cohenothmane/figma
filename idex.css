@@ -1,0 +1,383 @@
+body
+{
+    margin: 0%;
+    position: absol te;
+    display: flex;
+    flex-direction: column;
+}
+
+.cercle
+{
+    position: relative;
+    top: -17rem;
+    left: 51rem;
+    width: 256px;
+    height: 256px;
+    border-radius: 50%;
+    box-shadow: 0 0 0 6rem #ffffff2e; 
+}
+
+.text
+{
+    padding-top: 2rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.T1
+{
+    padding-left: 7rem;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 605px;
+    font-size: 64px;
+    color: white;
+    line-height: 76px;
+}
+
+.ii
+{
+    position: relative;
+    top: -37rem;
+    left: 34rem;
+    z-index: 999;
+    width: 712px;
+    height: 712px;
+    background-size: cover;
+    background-image: url(image/Group.png);
+}
+
+.home
+{
+    height: 830px;
+    width: 100vw;
+    background: linear-gradient(to right, #00A8DB, #27C0EF);
+}
+
+.barre
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 100px 40px 120px;
+}
+.bouton
+{
+    display: flex;
+    gap: 0px;
+}
+
+.bu
+{
+    font-size: 16px;
+    width: 95px;
+    height: 38px;
+    border-radius: 4px;
+    border: none;
+    background-color: transparent;
+    color: white;
+}
+
+.v
+{background: linear-gradient(to right, #328BCB, #005490);}
+
+
+.t
+{
+    width: 197px;
+    height: 57px;
+    margin-top: 2rem;
+}
+.w
+{
+    background-color: white;
+    color: #00A8DB;
+    width: 197px;
+    height: 57px;
+    margin-top: 2rem;
+    margin-left: 7rem;
+}
+
+.logo
+{
+    width: 90px;
+    height: 28px;
+    background-image: url(image/Logo.png);
+}
+
+.vecteur
+{
+    position: relative;
+    background-size: cover;
+    width: 190px;
+    height: 45px;
+    left: 110px;
+    top: -58px;
+    transform: rotate(354deg);
+    background-image: url(image/vecteur.png);
+}
+
+.tm
+{
+    color: white;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.un
+{
+    width: 459px;
+    padding-left: 7rem;
+    margin-top: -25px;
+}
+
+.patern
+{
+    margin-top: 8rem;
+    margin-left: 5rem;
+    width: 1100px;
+    height: 40px;
+    background-image: url(image/Partners.png);
+    background-size: cover;
+}
+
+.flechecurve
+{
+    position: absolute;
+    width: 620px;
+    height: 695.45px;
+    left: 7rem;
+    top: 79rem;
+    background-image: url(image/cf.png);
+}
+
+.tel
+{
+    position: absolute;
+    width: 494px;
+    height: 550px;
+    left: 9.5rem;
+    top: 75rem;
+    z-index: 1;
+    background-image: url(image/Group\ 21.png);
+    background-size: cover;
+}
+
+.bt
+{
+    color: #034D82;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+}
+
+.sud
+{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    flex-direction: column;
+    padding-right: 6rem;
+}
+
+.p{margin-top: 20rem;display: flex;justify-content: end;}
+
+.g
+{
+    color: grey;
+    display: flex;
+    justify-content: end;
+    margin-right: -4rem;
+}
+
+.tw
+{
+    justify-content: end;
+    color: #04AADD;
+    width: 176px;
+}
+
+.sectiond
+{
+    margin-top: 30rem;
+    padding-left: 7rem;
+    height: 600px;
+}
+
+.dsg
+{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.gris
+{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #90A3B4;
+}
+
+.groupevs
+{ 
+    background-image: url(image/Group\ 26.png);
+    background-size: cover;
+    width: 163px;
+    height: 135px;
+}
+
+.qua
+{
+    justify-content: end;
+    color: #04AADD;
+    width: 240px;
+}
+
+.mac
+{
+    position: relative;
+    top: -450px;
+    left: 430px;
+    width: 700px;
+    height: 410px;
+    background-image: url(image/Macbook-Pro.png );
+}
+
+.sectiont
+{
+    height: 500px;
+    width: 100vw;
+    background-color: #EFFBFF   ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.groupevh
+{
+    background-image: url(image/Group\ 28.png);
+    width: 1160px;
+    height: 336px;
+    background-size: cover;
+}
+
+.sectionq
+{
+    display: flex;
+    justify-content: center;
+}
+
+.sectionqd
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.avi
+{
+    background-image: url(image/Capture.PNG);
+    width: 700px;
+    height: 300px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat; 
+}
+
+.last
+{
+    background: linear-gradient(to right, #24CEED, #01B8D9);
+    height: 360px;
+    width: 1100px;
+    margin-left: 5rem;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.im
+{
+    display: flex;
+    flex-direction: row;
+    padding-left: 10px;
+    align-items: center;
+}
+
+.rond
+{
+    margin-left: -10px;
+    width: 36px;
+    height: 36px;
+}
+.u
+{
+    background-image: url(image/Item1.png);
+    background-size: cover;
+}
+.d
+{
+    background-image: url(image/Item2.png);
+    background-size: cover;
+}
+.tr
+{
+    background-image: url(image/Item3.png);
+    background-size: cover;
+}
+.q
+{
+    background-image: url(image/Item4.png);
+    background-size: cover;
+}
+.c
+{
+    background-image: url(image/Item.png);
+    background-size: cover;
+}
+
+.ya
+{
+    font-size: 36px;
+    line-height: 1.2;
+}
+
+.oe
+{
+    margin-top: 15px;
+    margin-left: 7rem;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+
+
+.wd
+{
+    background-color: white;
+    color: #00A8DB;
+    width: 197px;
+    height: 57px;
+    margin-left: 5rem;
+    z-index: 1;
+}
+
+.cerclep
+{
+    position: relative;
+    left: 304px;
+    top: 143px;
+    width: 150px;
+    height: 150px;
+    box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.189);
+    border-radius: 50%;
+}
+
+.triche
+{
+    background-image: url(image/last.PNG);
+    background-size: contain;
+    width: 100vw;
+    height: 700px;
+    background-position: center;
+    background-repeat: no-repeat; 
+}
